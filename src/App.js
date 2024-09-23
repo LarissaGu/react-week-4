@@ -6,6 +6,16 @@ function App() {
     <div className="App">
       <h1>Weather App</h1>
       <Search />
+      <div>
+        <a
+          href="https://github.com/LarissaGu/react-week-4"
+          target="_blank"
+          rel="noreferrer"
+        >
+          GitHub Repository
+        </a>{" "}
+        for this project
+      </div>
     </div>
   );
 }
